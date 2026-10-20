@@ -1,0 +1,3 @@
+Contact our demo team at hello@example.com or support@example.org.
+For collaboration, email hello@example.com again.
+Demo admin: admin@sample.net
